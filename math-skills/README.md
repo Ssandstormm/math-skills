@@ -8,7 +8,7 @@
 To run this project you need to download or git clone this repository.
 
 ```
-$git clone git@git.01.alem.school:aamanzha/math-skills.git
+$git clone https://github.com/Ssandstormm/math-skills.git
 ```
 
 
